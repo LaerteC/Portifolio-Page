@@ -5,9 +5,9 @@
  ## ícones 
 
 
- :package: Novas Funcionalidades
- :up: Atualização 
- :beatle: Correção de Bug
- :checkered_flag: Release;
+ :package:   Novas Funcionalidades;
+ :up:   Atualização ;
+ :bug:   Correção de Bug;
+ :checkered_flag:   Release;
 
 
